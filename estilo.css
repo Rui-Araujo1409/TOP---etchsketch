@@ -1,0 +1,15 @@
+.contentor {
+  width: 500px;
+  height: 500px;
+  border: 1px black solid;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.quadrado {
+  border: 1px black solid;
+  justify-content:space-around;
+  text-align: center;
+}
